@@ -1,2 +1,2 @@
 # Exercises
-This repository contains the programming exercises for practicing data science skills with Python.
+This repository contains the Python codes I practice for data science skills.
